@@ -31,13 +31,13 @@ Experience ZincCalc Pro for yourself:
 
 *(This section should list the key technologies, frameworks, and libraries you used. Please update them to match your actual stack! Here are common choices for such a project:)*
 
-*   **Framework:** [Next.js](https://nextjs.org/) (React) or [Vite](https://vitejs.dev/) + React
+*   **Framework:** [Vite](https://vitejs.dev/) + React
 *   **Language:** [TypeScript](https://www.typescriptlang.org/)
-*   **Styling:** [Tailwind CSS](https://tailwindcss.com/) or CSS Modules
-*   **Core Functionality:** Vanilla JavaScript/TypeScript for calculation engine
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+*   **Core Functionality:** TypeScript for calculation engine
 *   **Deployment:** [Vercel](https://vercel.com/)
-*   *(Add any specific math libraries used, e.g., for matrix operations)*
-
+*   **Numerical Computing**: [math.js](https://mathjs.org/) – fast number crunching in Typescript
+  
 ## 📦 Getting Started for Development
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
@@ -101,6 +101,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact
 
-Shahad Uddin - [@theshahaduddin](https://twitter.com/theshahaduddin) - hello@shahaduddin.com
+Shahad Uddin - [@theshahaduddin](https://x.com/theshahaduddin) - hello@shahaduddin.com
 
 Project Link: [https://github.com/shahaduddin/zinccalculator](https://github.com/shahaduddin/zinccalculator)
